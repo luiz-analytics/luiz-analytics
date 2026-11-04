@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Luiz Santos!
 
-### 💻 Tecnologia • Linux • Bash • Python • Análise de Dados
+### 🎓 Tecnólogo em Logística | 💻 Tecnologia e Análise de Dados
 
 **Aprendendo, praticando e transformando conhecimento em projetos.**
 
@@ -19,7 +19,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Meu nome é **Luiz Santos** e estou construindo minha trajetória na área de tecnologia, com foco no aprendizado de **Linux, programação, automação e análise de dados**.
+Meu nome é **Luiz Santos**, sou **graduado em Curso Superior de Tecnologia em Logística (Tecnólogo em Logística)** e estou ampliando meus conhecimentos na área de tecnologia, com foco em **Linux, programação, automação e análise de dados**.
+
+Busco conectar minha formação em Logística ao uso de ferramentas tecnológicas, especialmente em temas como organização de processos, automação e análise de informações.
 
 Este perfil é meu espaço para compartilhar exercícios, documentar conhecimentos e apresentar projetos práticos desenvolvidos durante meus estudos.
 
@@ -27,6 +29,12 @@ Este perfil é meu espaço para compartilhar exercícios, documentar conheciment
 - 🧩 **Praticando:** lógica de programação, uso do terminal e resolução de problemas.
 - 📊 **Explorando:** ferramentas e conceitos de análise de dados.
 - 🎯 **Objetivo:** evoluir continuamente e criar projetos cada vez mais completos.
+
+## 🎓 Formação acadêmica
+
+**Curso Superior de Tecnologia em Logística — concluído**
+
+Formação de nível superior na área de Logística, com interesse em aplicar recursos tecnológicos para apoiar processos e decisões baseadas em dados.
 
 ## 🛠️ Tecnologias e ferramentas em estudo
 
