@@ -2,83 +2,98 @@
 
 # 👋 Olá, eu sou Luiz Santos!
 
-### 🎓 Tecnólogo em Logística | 💻 Tecnologia e Análise de Dados
+### 🎓 Tecnólogo em Logística | 📊 Análise de Dados | 💻 Tecnologia
 
-**Aprendendo, praticando e transformando conhecimento em projetos.**
+**Conectando experiência em operações logísticas ao uso de dados e tecnologia.**
 
-<a href="https://github.com/luiz-analytics">
-  <img src="https://img.shields.io/badge/GitHub-luiz--analytics-181717?style=for-the-badge&logo=github&logoColor=white" alt="Meu perfil no GitHub">
-</a>
-<a href="https://github.com/luiz-analytics?tab=repositories">
-  <img src="https://img.shields.io/badge/Ver%20meus-projetos-0969DA?style=for-the-badge&logo=github&logoColor=white" alt="Meus repositórios">
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-luiz--analytics-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luiz-analytics)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luiz%20Santos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-luiz-santos)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💼 Perfil profissional
 
-Meu nome é **Luiz Santos**, sou **graduado em Curso Superior de Tecnologia em Logística (Tecnólogo em Logística)** e estou ampliando meus conhecimentos na área de tecnologia, com foco em **Linux, programação, automação e análise de dados**.
+Sou **graduado em Tecnologia em Logística pela Universidade Anhanguera (2025)** e **técnico em Logística pelo SENAC Tito (2015)**.
 
-Busco conectar minha formação em Logística ao uso de ferramentas tecnológicas, especialmente em temas como organização de processos, automação e análise de informações.
+Tenho experiência em **operações logísticas, centros de distribuição e e-commerce**, incluindo expedição (outbound), controle de estoques, inventários, logística reversa e acompanhamento de entregas.
 
-Este perfil é meu espaço para compartilhar exercícios, documentar conhecimentos e apresentar projetos práticos desenvolvidos durante meus estudos.
+Atuo no **Mercado Livre como Representante de Envios III**, conforme minha trajetória profissional, e estou **cursando Análise de Dados na EBAC**. Busco integrar minha experiência em Logística a soluções orientadas por dados, melhoria contínua e automação de processos.
 
-- 🌱 **Estudando:** comandos Linux, Bash e Python.
-- 🧩 **Praticando:** lógica de programação, uso do terminal e resolução de problemas.
-- 📊 **Explorando:** ferramentas e conceitos de análise de dados.
-- 🎯 **Objetivo:** evoluir continuamente e criar projetos cada vez mais completos.
+## 💼 Experiência profissional
+
+| Empresa | Cargo | Período |
+| --- | --- | --- |
+| **Mercado Livre** | Representante de Envios III | Nov/2023 – Atual |
+| **Luft Solutions** | Assistente Operacional | 2020 – 2023 |
+
+**Atividades e conhecimentos:** operações outbound, expedição, inventários, controle de estoque, fluxo de mercadorias e acompanhamento de entregas.
 
 ## 🎓 Formação acadêmica
 
-**Curso Superior de Tecnologia em Logística — concluído**
+- **Tecnologia em Logística** — Universidade Anhanguera · **2025**
+- **Técnico em Logística** — SENAC Tito · **2015**
+- **Análise de Dados** — EBAC · **Em andamento**
 
-Formação de nível superior na área de Logística, com interesse em aplicar recursos tecnológicos para apoiar processos e decisões baseadas em dados.
+## 📊 Competências e ferramentas
 
-## 🛠️ Tecnologias e ferramentas em estudo
+**Logística e operações**
+- Gestão de operações logísticas e controle de estoques
+- Indicadores de desempenho (KPIs)
+- Sistemas WMS e SAP ERP
+- Logística reversa e melhoria contínua
+
+**Dados e produtividade**
+- Excel Avançado 365 e dashboards
+- Microsoft Access e Pacote Office
+- Análise de dados (em formação)
+
+**Tecnologias em estudo e projetos**
+- Linux, Bash e Python
+- Git, GitHub e notebooks Jupyter
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP%20ERP-0FA6D4?style=flat-square&logo=sap&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
 
+## 📜 Cursos e certificações
+
+- **Excel Avançado 365 e Dashboards**
+- **Lean White Belt**
+- **Microsoft Access**
+- **Pacote Office**
+
 ## 🚀 Projeto em destaque
 
-### 🧮 [Calculadora Linux — Bash](https://github.com/luiz-analytics/calculadora-linux.)
+### 🧮 [Calculadora Linux em Bash](https://github.com/luiz-analytics/calculadora-linux.)
 
-Projeto de calculadora interativa no terminal Linux, desenvolvido para praticar programação em Bash.
+Projeto educacional de calculadora interativa no terminal Linux, com operações matemáticas, validação de entradas, menu de opções e tratamento de erros.
 
-**Funcionalidades:**
-- Operações de soma, subtração, multiplicação e divisão;
-- Menu interativo para selecionar operações;
-- Validação de entradas numéricas;
-- Tratamento de erros, incluindo divisão por zero.
+**Competências praticadas:** lógica de programação, scripts Bash, funções, estruturas condicionais e uso do terminal.
 
-**Conceitos praticados:** Bash scripting, variáveis, funções, estruturas condicionais, laços de repetição e interação com o terminal.
+📁 [Explorar o repositório da calculadora](https://github.com/luiz-analytics/calculadora-linux.)
 
-📂 **[Acessar o projeto e consultar o código](https://github.com/luiz-analytics/calculadora-linux.)**
+## 🎯 Áreas de interesse profissional
 
-## 📚 Minha jornada de aprendizado
-
-Acredito que a prática é essencial para aprender tecnologia. Por isso, procuro transformar cada atividade em uma oportunidade de estudar, testar soluções e melhorar meus projetos.
-
-> **Cada projeto é mais um passo na minha evolução.**
+**Análise de Logística • Análise de Transportes • Administração • Análise de Dados aplicada à Logística**
 
 ---
 
 <div align="center">
 
-### 🤝 Vamos conectar!
+### 🤝 Conecte-se comigo
 
-[![Perfil no GitHub](https://img.shields.io/badge/Confira%20meu-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/luiz-analytics)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil%20profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-luiz-santos)
+[![Repositórios](https://img.shields.io/badge/GitHub-Meus%20projetos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luiz-analytics?tab=repositories)
 
-**Obrigado pela visita!** ⭐
+*Aprendizado contínuo, melhoria de processos e decisões orientadas por dados.*
 
 </div>
