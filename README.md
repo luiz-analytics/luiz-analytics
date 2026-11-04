@@ -19,13 +19,13 @@ Sou **graduado em Tecnologia em Logística pela Universidade Anhanguera (2025)**
 
 Tenho experiência em **operações logísticas, centros de distribuição e e-commerce**, incluindo expedição (outbound), controle de estoques, inventários, logística reversa e acompanhamento de entregas.
 
-Atuo no **Mercado Livre como Representante de Envios III**, conforme minha trajetória profissional, e estou **cursando Análise de Dados na EBAC**. Busco integrar minha experiência em Logística a soluções orientadas por dados, melhoria contínua e automação de processos.
+Atuei no **Mercado Livre como Representante de Envios III até 11/09/2026** e estou **cursando Análise de Dados na EBAC**. Busco integrar minha experiência em Logística a soluções orientadas por dados, melhoria contínua e automação de processos.
 
 ## 💼 Experiência profissional
 
 | Empresa | Cargo | Período |
 | --- | --- | --- |
-| **Mercado Livre** | Representante de Envios III | Nov/2023 – Atual |
+| **Mercado Livre** | Representante de Envios III | Set/2023 – 11/09/2026 |
 | **Luft Solutions** | Assistente Operacional | 2020 – 2023 |
 
 **Atividades e conhecimentos:** operações outbound, expedição, inventários, controle de estoque, fluxo de mercadorias e acompanhamento de entregas.
